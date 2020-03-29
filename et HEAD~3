@@ -1,0 +1,157 @@
+[33mcommit 514e62db6ef6f796b9752ee8e845c4de27cb25fa[m[33m ([m[1;36mHEAD -> [m[1;32mmybranch[m[33m)[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 19:22:54 2020 +0300
+
+    new file:   package-lock.json
+    new file:   package.json
+
+[33mcommit aab6d6587a74d63ecfb0b72e538878df54d02ee0[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 19:17:16 2020 +0300
+
+    modified:   .gitignore
+
+[33mcommit 22da552721415aae7110f1d692d161bb5f85dbb6[m
+Merge: fdbd3ff ad6b63e
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 18:58:06 2020 +0300
+
+    Merge branch 'develop' of https://github.com/nyakagwafred/OpenCL into mybranch
+    
+    deleted:    images/css.txt
+    modified:   index.html
+
+[33mcommit fdbd3ffbf6c7c2ae7be129193eb9d2ffefffc4ff[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 18:53:25 2020 +0300
+
+    modified:   index.html
+
+[33mcommit ad6b63ef0ffb3118bd27902fe447a878e8afddba[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 18:03:47 2020 +0300
+
+            modified:   index.html
+
+[33mcommit a35763964fc7c3080ece308ce8601cc9e71339c1[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 18:02:01 2020 +0300
+
+    deleted:    images/css.txt
+
+[33mcommit 720c30285dd0c9f9bb452a27f83a05b1547e85ef[m[33m ([m[1;31morigin/mybranch[m[33m)[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:48:33 2020 +0300
+
+    deleted:    style.css
+
+[33mcommit 4264614f2ccbad7659cf84b5ba666e289d3fdacd[m
+Merge: a9dc531 720c302
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:48:08 2020 +0300
+
+    Merge pull request #1 from nyakagwafred/mybranch
+    
+    Approved change
+
+[33mcommit 786948353ca1c8823fc994766d5adb8c01ed175e[m
+Merge: 3bd5b87 a9dc531
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:46:17 2020 +0300
+
+    Merge branch 'master' of https://github.com/nyakagwafred/OpenCL into mybranch
+
+[33mcommit 3bd5b8781588842d8ce7f9caf73612877ef877ee[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:32:12 2020 +0300
+
+    Removed CSS file
+
+[33mcommit a9dc531d6e3ed65f0141e75f5b9c17a1dcb5ea7e[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:28:05 2020 +0300
+
+    Added a CSS file by mistake
+
+[33mcommit c73f1c25ad33fb00648c03b817cede6feb35fece[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:21:45 2020 +0300
+
+    added CSS file in wrong folder
+
+[33mcommit 17b2e3c9954b7bfb05757ba0e6b82ae5784403b9[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:18:51 2020 +0300
+
+    another change
+
+[33mcommit 403f87159dc0d85d21c754af7fb003ffa06421e7[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:16:07 2020 +0300
+
+    another change
+
+[33mcommit f44f14b4c74b23989046fadacc27315d8c94184f[m
+Merge: d4f6f16 e4e12b9
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:13:03 2020 +0300
+
+    Merge branch 'master' of https://github.com/nyakagwafred/OpenCL into mybranch
+
+[33mcommit d4f6f167b58195b0901fec0732cf8c09cd053191[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:10:04 2020 +0300
+
+    modified html file
+
+[33mcommit e4e12b9e97c3788fce1bc9e9c0bff77689655d3f[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:08:09 2020 +0300
+
+    Update README.md
+    
+    Geo-Search is a tool that allows people to search for places and extract information such as
+    timezone, map and local weather conditions like temperature, wind speed, humidity, and
+    precipitation.
+
+[33mcommit 834568cc7fca342ad9a095a173e28103a8e07e94[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:07:37 2020 +0300
+
+    modified index.html on mybranch branch
+
+[33mcommit a07ba2f2464376926e91699a78393aad3e2eed9f[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:04:51 2020 +0300
+
+    Deleted Image file
+
+[33mcommit 42a3955f94cb1d06f7eb58039377b4d8497c521e[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 17:01:30 2020 +0300
+
+    Added an image file
+
+[33mcommit b855feef90e309054a3013ddedafcdff2779ada3[m[33m ([m[1;32mdevelopment[m[33m)[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 16:45:24 2020 +0300
+
+    Project initiliazation
+
+[33mcommit 0137d3d5808ff921c2e6215766cfc970ffd6652d[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 16:41:30 2020 +0300
+
+    Project initiliazation
+
+[33mcommit d43637417d3620f2793d92b4277b75ed20a335e6[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 16:38:55 2020 +0300
+
+    Project initiliazation
+
+[33mcommit fb876391364d682fd22b273ceee26dcc4f4441b2[m
+Author: Fred Nyakagwa <51993500+nyakagwafred@users.noreply.github.com>
+Date:   Sun Mar 29 16:19:56 2020 +0300
+
+    Initial commit
