@@ -30,3 +30,7 @@ h1 {
     padding: 20px;
     text-align: justify;
 }
+
+.divBorder {
+  border: thin solid #DADADA;
+}
