@@ -37,7 +37,6 @@ h1 {
   color: rgb(221, 17, 17);
   text-align: center;
   margin: 20px;
-  padding: 20px;
 }
 
 .paragraph {
@@ -76,7 +75,7 @@ h1 {
 
 button {
   display: block;
-  margin : 0 auto;
+  margin : 30px auto;
   padding: 15px 25px;
   font-size: 24px;
   cursor: pointer;

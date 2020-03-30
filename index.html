@@ -18,25 +18,23 @@
     timezone, map and local weather conditions like <strong>Pressure</strong>, 
     <strong>Temperature</strong>, <strong>Wind Speed</strong>, <strong>Humidity</strong> and 
     <strong>Precipitation</strong> </p>
+    
     <hr>
-
-    <h2 class="firsth1">Enter City to Search</h2>
-
-    <div class="divinputter">
-        <input class="inputter" type="text" id="fname" name="city" placeholder="Search.."><br>
+    <div class="row">
+        <form class="col-sm-8 offset-sm-2" id="city-form">
+            <div class="form-group">
+                <input class="inputter" type="text" id="city" placeholder="Enter City.." required>
+            </div>
+            <button class="btn btn-success" type="submit">Check the weather!</button>
+        </form>
     </div>
+    <div class="row">
 
-    <button class="button" type="submit">Submit!</button>
-
-    <h2 class="firsth1">Weather update for 'City Name' ...</h2>
-
-    <section class="col-sm-10 offset-sm-1">
-        <p id="response-message"></p>
-        <h2 id="response-title"></h2>
-        <small id="response-id"></small>
-        <p id="response-content"></p>
-    </section>
-
+    <h2 class="firsth1" id="updateText"></h2>
+    <h4 class="firsth1" id="pressure"></h4>
+    <h4 class="firsth1" id="windspeed"></h4>
+    <h4 class="firsth1" id="humidity"></h4>
+    <h4 class="firsth1" id="temperature"></h4>
     <hr>
 
 
