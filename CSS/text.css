@@ -14,6 +14,32 @@ h1 {
   text-align: center;
 }
 
+.inputter {
+  width: 30%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border-radius: 30px; 
+  display: block;
+  margin : 0 auto;
+}
+
+.divinputter {
+  align-items: center;
+
+}
+
+.inputter:hover {
+  border: 2px solid red;
+}
+
+.firsth1 {
+  color: rgb(221, 17, 17);
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+}
+
 .paragraph {
   font-family: verdana;
   font-size: 20px;
@@ -22,15 +48,52 @@ h1 {
   padding: 20px;
 }
 
+.paragraphALL {
+  font-family: verdana;
+  text-align: center;
+  padding: 10px;
+}
+
 .container {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    grid-auto-rows: 1.6em;
     grid-gap: 40px;
     padding: 20px;
     text-align: justify;
 }
 
 .divBorder {
-  border: thin solid #DADADA;
+  border: thin solid rgb(177, 128, 128);
+}
+
+/* Centering Images */
+
+.imager {
+  align-self: auto;
+  width: 100%;
+  
+}
+
+button {
+  display: block;
+  margin : 0 auto;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+button:hover {background-color: #3e8e41}
+
+button:active {
+  background-color: #3e8e41;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
