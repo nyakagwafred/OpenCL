@@ -3,40 +3,54 @@
 
 <head>
     <meta charset="utf-8">
-    <title>The Capstone Project | Welcome</title>
+    <meta name="viewport" content="width=device-width">
     <meta name="description" content="Capstone">
-    <meta name="FN" content="Owner">
+    <meta name="Fred Nyakagwa" content="Owner">
+    <meta name="keywords" content="">
     <link rel="stylesheet" href="CSS/text.css">
     <link href="https://fonts.googleapis.com/css?family=Liu+Jian+Mao+Cao&display=swap" rel="stylesheet">
+    <title>The Capstone Project | Welcome</title>
 </head>
 
 <body>
-    <h1 class="headerOne">GeoSearch Capstone Project</h1>
-    <p class="paragraph"> Geo-Search is a tool that allows people to search for places and extract information such as
-    timezone, map and local weather conditions like <strong>Pressure</strong>, 
-    <strong>Temperature</strong>, <strong>Wind Speed</strong>, <strong>Humidity</strong> and 
-    <strong>Precipitation</strong> </p>
+    <header>
+        <h1>The GeoSearch Capstone Project</h1>
+        <p> Geo-Search is a tool that allows people to search for places and extract information such as
+            timezone, map and local weather conditions like <strong>Pressure</strong>,
+            <strong>Temperature</strong>, <strong>Wind Speed</strong>, <strong>Humidity</strong> and
+            <strong>Precipitation</strong> 
+        </p>
+    </header>
+    
 
-    <hr>
-
-    <h2 class="firsth1">Enter City</h2>
-
-    <div class="row">
-        <form class="col-sm-8 offset-sm-2" id="city-form">
-            <div class="form-group">
-                <input class="inputter" type="text" id="city" placeholder="Search.." required>
-            </div>
-            <button class="btn btn-success" type="submit">Check the weather!</button>
+<div class="grid-container">
+    <div>
+        <h2>Enter City</h2>
+        <form id="city-form">
+            <input type="text" id="city" placeholder="Search.." required>
+            <button type="submit">Check the weather!</button>
+            <h3 class="firsth1" id="updateText"></h3>
+            <h5 class="firsth1" id="pressure"></h5>
+            <h5 class="firsth1" id="windspeed"></h5>
+            <h5 class="firsth1" id="humidity"></h5>
+            <h5 class="firsth1" id="temperature"></h5>
         </form>
     </div>
     
+    <div>
+        <p > 
+           <img id="staticMap" src="" alt="">
+        </p>
 
-    <h2 class="firsth1" id="updateText"></h2>
-    <h4 class="firsth1" id="pressure"></h4>
-    <h4 class="firsth1" id="windspeed"></h4>
-    <h4 class="firsth1" id="humidity"></h4>
-    <h4 class="firsth1" id="temperature"></h4>
-    <hr>
+    </div>
+</div>
+
+<hr>
+   
+
+    
+
+
 
 
 
@@ -63,7 +77,9 @@
     </div>
     </div>
 
-
+<footer>
+    <p>The Capstone Project by Fred Nyakagwa, Copyright &copy; 2020</p>
+</footer>
 
     
     
@@ -71,5 +87,4 @@
 
     <script src="scripts/scripts.js"></script>
 </body>
-
 </html>
