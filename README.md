@@ -29,7 +29,7 @@ No deployment, Only a web browser is needed to run the tool.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Open source
 
 ## Acknowledgments
 
